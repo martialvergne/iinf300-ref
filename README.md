@@ -13,6 +13,8 @@ Par groupe clonez ce repo et vérifiez que le workflow fonctionne bien.
 
 Attention, placez le mot de passe habituel qui va bien dans https://github.com/___urldevotrerepo___/settings/secrets/actions et changez `harbor.kakor.ovh/ipi/correction` par `harbor.kakor.ovh/ipi/groupe-x`.
 
+Test workflow
+
 ## Exercice 2
 
 En partant de l'exemple https://github.com/marketplace/actions/python-linter, mettez en place un linter pour le code Python dans un job séparé dans le fichier `build-demo.yml`
